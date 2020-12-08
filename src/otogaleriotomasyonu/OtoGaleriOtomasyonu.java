@@ -16,10 +16,12 @@ public class OtoGaleriOtomasyonu {
      */
     
     public static void main(String[] args) {
+          Deneme deneme = new Deneme();
           VeriTabaniIslemleri veriTabani= new VeriTabaniIslemleri();
           veriTabani.Baglan();
           veriTabani.VerileriEkle();
           veriTabani.VerileriGetir();
+
     }
     
 }
