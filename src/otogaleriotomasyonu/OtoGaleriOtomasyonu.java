@@ -16,6 +16,7 @@ public class OtoGaleriOtomasyonu {
      */
     
     public static void main(String[] args) {
+        Arayüz a = new Arayüz();
           Deneme deneme = new Deneme();
           VeriTabaniIslemleri veriTabani= new VeriTabaniIslemleri();
           veriTabani.Baglan();
